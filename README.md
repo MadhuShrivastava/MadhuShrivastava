@@ -33,7 +33,8 @@ Data Analytics project focused on exploring crop production patterns using agric
 ### Plant Disease Detection
 Deep Learning based module developed as part of a collaborative project for identifying plant diseases from leaf images.
 
-## Tools I Work With
+
+## Languages & Tools I Work With
 
 - **Languages:** Python, SQL
 - **Data Analytics:** Pandas, NumPy, Power BI, Microsoft Excel
@@ -41,11 +42,24 @@ Deep Learning based module developed as part of a collaborative project for iden
 - **Computer Vision:** OpenCV, MediaPipe
 - **Tools & Platforms:** Streamlit, Git, GitHub, Jupyter Notebook, Google Colab, MySQL
 
-## GitHub Stats
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,tensorflow,opencv&perline=8" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MadhuShrivastava&show_icons=true&hide_border=true)
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuShrivastava&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+</p>
+
 
 
 ## Let's Connect
